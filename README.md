@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 ---
 
 ### 🎉 Fun Facts:
-🔥 Krishna Devotee 🙏 | 🎸 Love Coding | 🚀 Always Learning | 🌍 Open for Collaborations  
+🔥 Krishna Devotee 🙏 | 🎸  Coding | 🚀 Always Learning | 🌍 Open for Collaborations  
