@@ -1,15 +1,19 @@
  
-<!-- ====================================================== -->
-<!--              SACHIN KUMAR ROUT - GITHUB                -->
-<!--          LIGHT & DARK THEME RESPONSIVE README          -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--              SACHIN KUMAR ROUT - GITHUB PROFILE           -->
+<!--                    README.md                              -->
+<!-- ========================================================= -->
 
 <div align="center">
 
+# 👋 Hi, I'm Sachin Kumar Rout
+
+**Founder @ Aiodify | Web Developer | Digital Marketer | AI Enthusiast**
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FFD600&height=210&section=header&text=Sachin%20Kumar%20Rout&fontSize=43&fontColor=FFD600&fontAlignY=38&animation=fadeIn&desc=Founder%20%40%20Aiodify%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=15"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F3F4F6,100:FFD600&height=210&section=header&text=Sachin%20Kumar%20Rout&fontSize=43&fontColor=24292F&fontAlignY=38&animation=fadeIn&desc=Founder%20%40%20Aiodify%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=15"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F3F4F6,100:FFD600&height=210&section=header&text=Sachin%20Kumar%20Rout&fontSize=43&fontColor=24292F"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FFD600&height=130&section=header"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F3F4F6,100:FFD600&height=130&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F3F4F6,100:FFD600&height=130&section=header"/>
 </picture>
 
 <a href="https://readme-typing-svg.demolab.com">
@@ -321,3 +325,7 @@ I'm always interested in connecting with developers, entrepreneurs, businesses a
 </picture>
 
 </div>
+
+<!-- ========================================================= -->
+<!--                    END OF README                          -->
+<!-- ========================================================= -->
