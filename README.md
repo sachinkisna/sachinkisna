@@ -1,13 +1,20 @@
  
-<!-- ================================================== -->
-<!--                    ANIMATED HEADER                 -->
-<!-- ================================================== -->
+<!-- ====================================================== -->
+<!--              SACHIN KUMAR ROUT - GITHUB                -->
+<!--          LIGHT & DARK THEME RESPONSIVE README          -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:FFD600&height=210&section=header&text=Sachin%20Kumar%20Rout&fontSize=43&fontColor=FFD600&fontAlignY=38&animation=fadeIn&desc=Founder%20%40%20Aiodify%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=15"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FFD600&height=210&section=header&text=Sachin%20Kumar%20Rout&fontSize=43&fontColor=FFD600&fontAlignY=38&animation=fadeIn&desc=Founder%20%40%20Aiodify%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=15"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F3F4F6,100:FFD600&height=210&section=header&text=Sachin%20Kumar%20Rout&fontSize=43&fontColor=24292F&fontAlignY=38&animation=fadeIn&desc=Founder%20%40%20Aiodify%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=15"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F3F4F6,100:FFD600&height=210&section=header&text=Sachin%20Kumar%20Rout&fontSize=43&fontColor=24292F"/>
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=750&lines=Founder+%40+Aiodify;Web+Developer+%7C+WordPress+Expert;Digital+Marketer+%7C+AI+Enthusiast;Full+Stack+Development+%26+AI+Automation;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=E5A900&center=true&vCenter=true&width=750&lines=Founder+%40+Aiodify;Web+Developer+%7C+WordPress+Expert;Digital+Marketer+%7C+AI+Enthusiast;Full+Stack+Development+%26+AI+Automation;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
 
 <br/>
 
@@ -15,18 +22,18 @@
 <img src="https://img.shields.io/badge/AIODIFY-FFD600?style=for-the-badge&logoColor=000000"/>
 </a>
 <a href="https://sachinrout.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/sachinkisna">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/sachinkisna">
-<img src="https://img.shields.io/github/followers/sachinkisna?style=for-the-badge&label=FOLLOWERS&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/followers/sachinkisna?style=for-the-badge&label=FOLLOWERS&logo=github&color=555555"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sachinkisna&label=PROFILE+VIEWS&color=FFD600&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=sachinkisna&label=PROFILE+VIEWS&color=DAA520&style=flat-square"/>
 
 </div>
 
@@ -47,7 +54,7 @@ I enjoy combining **Technology + Design + Marketing + AI** to create modern digi
 - 🌱 Learning Full-Stack Development and Generative AI
 - 🤝 Open to interesting projects, collaborations and opportunities
 
-> My philosophy: Learn continuously. Build consistently. Improve every day.
+> **My philosophy:** Learn continuously. Build consistently. Improve every day.
 
 ---
 
@@ -55,7 +62,7 @@ I enjoy combining **Technology + Design + Marketing + AI** to create modern digi
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Web Development
 
@@ -67,7 +74,7 @@ I enjoy combining **Technology + Design + Marketing + AI** to create modern digi
 - Website Optimization
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📈 Digital Marketing
 
@@ -81,7 +88,7 @@ I enjoy combining **Technology + Design + Marketing + AI** to create modern digi
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI & Automation
 
@@ -93,7 +100,7 @@ I enjoy combining **Technology + Design + Marketing + AI** to create modern digi
 - LLM Applications
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎨 UI/UX & Technology
 
@@ -115,7 +122,7 @@ I enjoy combining **Technology + Design + Marketing + AI** to create modern digi
 <div align="center">
 
 <a href="https://aiodify.com">
-<img src="https://img.shields.io/badge/AIODIFY-DIGITAL%20%7C%20TECHNOLOGY%20%7C%20GROWTH-FFD600?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/AIODIFY-DIGITAL%20%7C%20TECHNOLOGY%20%7C%20GROWTH-FFD600?style=for-the-badge&labelColor=555555"/>
 </a>
 
 <br/><br/>
@@ -126,11 +133,11 @@ I enjoy combining **Technology + Design + Marketing + AI** to create modern digi
 
 **[Aiodify](https://aiodify.com)** is my digital agency focused on helping businesses establish, grow and scale their online presence through technology, marketing and intelligent solutions.
 
-**Our Services**
+### Our Services
 
 `Web Development` · `E-commerce` · `WordPress` · `SEO` · `Google Ads` · `Meta Ads` · `SMM` · `AI Solutions` · `Automation`
 
-🌐 [Visit Aiodify](https://aiodify.com)
+🌐 **[Visit Aiodify →](https://aiodify.com)**
 
 ---
 
@@ -138,12 +145,10 @@ I enjoy combining **Technology + Design + Marketing + AI** to create modern digi
 
 Explore some of my development work and digital projects.
 
-### 🚀 Featured Projects
-
 | Project | Description | Link |
 |---|---|---|
 | Aiodify | Digital agency & technology solutions | [Visit ↗](https://aiodify.com) |
-| VivePure Products | E-commerce application using React, Node.js & MongoDB | [GitHub ↗](https://github.com/sachinkisna/Vivepure-products) |
+| VivePure Products | React, Node.js & MongoDB e-commerce application | [GitHub ↗](https://github.com/sachinkisna/Vivepure-products) |
 | Personal Portfolio | My developer portfolio | [Visit ↗](https://sachinrout.in) |
 
 ### 🌐 Agency Portfolio
@@ -158,23 +163,23 @@ Explore some of my development work and digital projects.
 
 ### 🌐 Frontend Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
 </p>
 
 ### ⚙️ Backend Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,python"/>
 </p>
 
 ### 🧩 CMS & E-commerce
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=wordpress,figma"/>
 </p>
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
@@ -182,7 +187,7 @@ Explore some of my development work and digital projects.
 
 ### 📈 Marketing & SEO
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
 <img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white"/>
 <img src="https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=google&logoColor=white"/>
@@ -191,10 +196,10 @@ Explore some of my development work and digital projects.
 
 ### 🤖 AI & Developer Tools
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-555555?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -207,13 +212,31 @@ Explore some of my development work and digital projects.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinkisna&show_icons=true&hide_border=true&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF"/>
+<a href="https://github.com/sachinkisna">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sachinkisna&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&title_color=FFD600&icon_color=FFD600"/>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sachinkisna&show_icons=true&hide_border=true&include_all_commits=true&theme=default&title_color=B8860B&icon_color=B8860B"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sachinkisna&show_icons=true"/>
+</picture>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkisna&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFD600&text_color=FFFFFF"/>
+<a href="https://github.com/sachinkisna">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkisna&layout=compact&hide_border=true&theme=github_dark&title_color=FFD600"/>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkisna&layout=compact&hide_border=true&theme=default&title_color=B8860B"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkisna&layout=compact"/>
+</picture>
+</a>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=sachinkisna&theme=dark&hide_border=true&background=0D1117&ring=FFD600&fire=FFD600&currStreakLabel=FFD600"/>
+<a href="https://github.com/sachinkisna">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sachinkisna&theme=dark&hide_border=true&background=0D1117&ring=FFD600&fire=FFD600&currStreakLabel=FFD600"/>
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sachinkisna&theme=default&hide_border=true&ring=B8860B&fire=B8860B&currStreakLabel=B8860B"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=sachinkisna"/>
+</picture>
+</a>
 
 </div>
 
@@ -223,7 +246,11 @@ Explore some of my development work and digital projects.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkisna&bg_color=0D1117&color=FFD600&line=FFD600&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sachinkisna&bg_color=0D1117&color=FFD600&line=FFD600&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph"/>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sachinkisna&bg_color=FFFFFF&color=24292F&line=B8860B&point=24292F&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkisna"/>
+</picture>
 
 </div>
 
@@ -270,7 +297,7 @@ I'm always interested in connecting with developers, entrepreneurs, businesses a
 <img src="https://img.shields.io/badge/AIODIFY-FFD600?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 <a href="https://sachinrout.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/sachinkisna">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -287,6 +314,10 @@ I'm always interested in connecting with developers, entrepreneurs, businesses a
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD600,50:161B22,100:0D1117&height=120&section=footer"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FFD600&height=120&section=footer"/>
+<source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F3F4F6,100:FFD600&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F3F4F6,100:FFD600&height=120&section=footer"/>
+</picture>
 
 </div>
