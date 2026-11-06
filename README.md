@@ -1,181 +1,292 @@
-# 👋 Hi, I'm Sachin Kumar Rout
+ 
+<!-- ================================================== -->
+<!--                    ANIMATED HEADER                 -->
+<!-- ================================================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=Founder+%40+Aiodify;Web+Developer;Digital+Marketer;AI+%26+Automation+Enthusiast;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://aiodify.com">
-    <img src="https://img.shields.io/badge/Aiodify-FFD600?style=for-the-badge&logoColor=000000" />
-  </a>
-  <a href="https://sachinrout.in">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sachinkisna">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sachinkisna">
-    <img src="https://img.shields.io/github/followers/sachinkisna?style=for-the-badge&label=Followers&logo=github" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:FFD600&height=210&section=header&text=Sachin%20Kumar%20Rout&fontSize=43&fontColor=FFD600&fontAlignY=38&animation=fadeIn&desc=Founder%20%40%20Aiodify%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=15"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=750&lines=Founder+%40+Aiodify;Web+Developer+%7C+WordPress+Expert;Digital+Marketer+%7C+AI+Enthusiast;Full+Stack+Development+%26+AI+Automation;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://aiodify.com">
+<img src="https://img.shields.io/badge/AIODIFY-FFD600?style=for-the-badge&logoColor=000000"/>
+</a>
+<a href="https://sachinrout.in">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/sachinkisna">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/sachinkisna">
+<img src="https://img.shields.io/github/followers/sachinkisna?style=for-the-badge&label=FOLLOWERS&logo=github&color=181717"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sachinkisna&label=PROFILE+VIEWS&color=FFD600&style=flat-square"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm **Sachin Kumar Rout**, a web developer, digital marketer, and founder of **[Aiodify](https://aiodify.com)** — a digital agency focused on building modern websites, e-commerce experiences, marketing systems, and AI-powered solutions.
+Hi, I'm **Sachin Kumar Rout**, a Web Developer, Digital Marketer, and Founder of **[Aiodify](https://aiodify.com)**.
 
-I enjoy combining **technology + design + marketing + AI** to build digital products that help businesses grow.
+I enjoy combining **Technology + Design + Marketing + AI** to create modern digital experiences and solutions that help businesses grow.
 
-- 🏢 Founder of **[Aiodify](https://aiodify.com)**
+- 🏢 Founder of **[Aiodify](https://aiodify.com)** – Digital & Technology Agency
 - 💻 Web Developer & WordPress Expert
+- 🛒 E-commerce Development & WooCommerce Specialist
 - 📈 Digital & Performance Marketing
-- 🤖 Exploring AI, automation & AI-powered applications
-- 🌐 Building modern, responsive & conversion-focused websites
-- 🚀 Interested in Full-Stack Development & AI Engineering
-- 🤝 Open to interesting projects, collaborations & opportunities
+- 🤖 Exploring AI Engineering, AI Agents & Automation
+- ⚡ Building modern, responsive and conversion-focused websites
+- 🌱 Learning Full-Stack Development and Generative AI
+- 🤝 Open to interesting projects, collaborations and opportunities
+
+> My philosophy: Learn continuously. Build consistently. Improve every day.
 
 ---
 
 ## 💼 What I Do
 
-| Area | Focus |
-|---|---|
-| 🌐 Web Development | Business Websites, E-commerce, WordPress, React & Full-Stack |
-| 🛒 E-commerce | WooCommerce, Shopify, Product & Conversion Optimization |
-| 📈 Digital Marketing | SEO, Meta Ads, Google Ads & Performance Marketing |
-| 🤖 AI & Automation | AI Integrations, Automation & AI-powered Solutions |
-| 🎨 UI & UX | Modern, Responsive & Conversion-Focused Interfaces |
-| 🔧 Optimization | Website Speed, SEO & Technical Improvements |
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+- Business Websites
+- E-commerce Websites
+- WordPress Development
+- React Applications
+- Full-Stack Development
+- Website Optimization
+
+</td>
+<td width="50%">
+
+### 📈 Digital Marketing
+
+- Search Engine Optimization
+- Google Ads
+- Meta Ads
+- Social Media Marketing
+- Performance Marketing
+- Conversion Optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Automation
+
+- AI Integrations
+- Generative AI
+- AI-powered Applications
+- AI Agents
+- Business Automation
+- LLM Applications
+
+</td>
+<td width="50%">
+
+### 🎨 UI/UX & Technology
+
+- Modern User Interfaces
+- Responsive Web Design
+- Website Performance
+- API Integrations
+- Technical Improvements
+- Digital Solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏢 Aiodify
+## 🏢 Aiodify – Digital | Technology | Growth
 
-<p align="center">
-  <a href="https://aiodify.com">
-    <img src="https://img.shields.io/badge/AIODIFY-Digital%20%7C%20Technology%20%7C%20Growth-FFD600?style=for-the-badge&labelColor=111111" />
-  </a>
-</p>
+<div align="center">
 
-**Aiodify** is my digital agency focused on helping businesses build and grow their online presence.
+<a href="https://aiodify.com">
+<img src="https://img.shields.io/badge/AIODIFY-DIGITAL%20%7C%20TECHNOLOGY%20%7C%20GROWTH-FFD600?style=for-the-badge&labelColor=0D1117"/>
+</a>
 
-### Our services
+<br/><br/>
 
-`Web Development` · `E-commerce` · `SEO` · `Google Ads` · `Meta Ads` · `SMM` · `AI Solutions` · `Automation`
+**Building digital experiences that help businesses grow.**
 
-🌐 **[Visit Aiodify →](https://aiodify.com)**
+</div>
+
+**[Aiodify](https://aiodify.com)** is my digital agency focused on helping businesses establish, grow and scale their online presence through technology, marketing and intelligent solutions.
+
+**Our Services**
+
+`Web Development` · `E-commerce` · `WordPress` · `SEO` · `Google Ads` · `Meta Ads` · `SMM` · `AI Solutions` · `Automation`
+
+🌐 [Visit Aiodify](https://aiodify.com)
 
 ---
 
-## 🌟 Selected Work
+## 🌟 Selected Work & Projects
 
-Check out the websites and digital projects created by Aiodify:
+Explore some of my development work and digital projects.
 
-### 🔗 [View Our Work →](https://aiodify.com/our-work/)
+### 🚀 Featured Projects
+
+| Project | Description | Link |
+|---|---|---|
+| Aiodify | Digital agency & technology solutions | [Visit ↗](https://aiodify.com) |
+| VivePure Products | E-commerce application using React, Node.js & MongoDB | [GitHub ↗](https://github.com/sachinkisna/Vivepure-products) |
+| Personal Portfolio | My developer portfolio | [Visit ↗](https://sachinrout.in) |
+
+### 🌐 Agency Portfolio
+
+**[Explore Aiodify's Projects & Work →](https://aiodify.com/our-work/)**
 
 > Building websites that don't just look good — they are designed to help businesses grow.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Technologies
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,python"/>
 </p>
 
 ### 🧩 CMS & E-commerce
 
 <p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=wordpress,figma"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
 </p>
 
 ### 📈 Marketing & SEO
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
 ### 🤖 AI & Developer Tools
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinkisna&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkisna&hide_border=true&theme=dark&background=0D1117&ring=FFD600&fire=FFD600&currStreakLabel=FFD600" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkisna&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFD600&text_color=FFFFFF" height="150" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinkisna&show_icons=true&hide_border=true&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkisna&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFD600&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=sachinkisna&theme=dark&hide_border=true&background=0D1117&ring=FFD600&fire=FFD600&currStreakLabel=FFD600"/>
+
+</div>
 
 ---
 
-## 📌 Currently Exploring
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkisna&bg_color=0D1117&color=FFD600&line=FFD600&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph"/>
+
+</div>
+
+---
+
+## 🎯 Currently Exploring
 
 ```text
-AI Engineering
+🤖 AI ENGINEERING
+│
 ├── Python
 ├── Generative AI
+├── Large Language Models (LLMs)
 ├── AI Agents
-├── LLM Applications
-└── AI Automation
+├── AI Automation
+└── AI-powered Applications
 
-Full-Stack Development
+⚡ FULL-STACK DEVELOPMENT
+│
 ├── JavaScript
-├── React
+├── React.js
 ├── Node.js
+├── Express.js
 ├── REST APIs
 └── MongoDB
+
+🚀 BUILDING
+│
+├── Production-ready Applications
+├── Scalable Web Platforms
+├── Intelligent Automation
+└── Modern Digital Products
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
-<p align="center">
-  <a href="https://aiodify.com">
-    <img src="https://img.shields.io/badge/Aiodify-FFD600?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
-  <a href="https://sachinrout.in">
-    <img src="https://img.shields.io/badge/sachinrout.in-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sachinkisna">
-    <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Kumar%20Rout-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sachinkisna">
-    <img src="https://img.shields.io/badge/GitHub-sachinkisna-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I'm always interested in connecting with developers, entrepreneurs, businesses and creative minds.
 
----
+<div align="center">
 
-<p align="center">
-  <b>⚡ Build. Learn. Automate. Grow.</b>
-</p>
+<a href="https://aiodify.com">
+<img src="https://img.shields.io/badge/AIODIFY-FFD600?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+<a href="https://sachinrout.in">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/sachinkisna">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/sachinkisna">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-  <sub>Building the future, one digital experience at a time.</sub>
-</p>
+<br/><br/>
+
+### ⚡ Build. Learn. Automate. Grow.
+
+**Building the future, one digital experience at a time.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD600,50:161B22,100:0D1117&height=120&section=footer"/>
+
+</div>
